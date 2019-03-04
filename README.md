@@ -1,2 +1,2 @@
 # learn-react
-[ ] Learn reactJS basis with NextJS
+[x] Learn reactJS basis with NextJS
